@@ -1,2 +1,1 @@
-# flutter-provider-task-manager
-A Flutter Task Management App refactored with Provider for state management, featuring real-time UI updates and enhanced UX.
+This project is a Flutter Task Management App that demonstrates how to use the Provider package for efficient state management. It replaces setState with Provider to manage tasks and improve performance, scalability, and architecture.
